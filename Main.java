@@ -2,6 +2,7 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
+        //        MyArray myArray = new MyArray();
 
         Sale sale1 = new Sale(new Customer("Dara", "Premium"), "2024-02-21");
         Sale sale2 = new Sale(new Customer("Nita", "Gold"), "2024-02-21");
